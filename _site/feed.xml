@@ -5,9 +5,61 @@
     <description>&lt;h3&gt;코딩 창고&lt;/h3&gt;&lt;h1&gt;기록하자.&lt;/h1&gt;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 07 Dec 2019 19:02:17 +0900</pubDate>
-    <lastBuildDate>Sat, 07 Dec 2019 19:02:17 +0900</lastBuildDate>
+    <pubDate>Sat, 21 Dec 2019 13:13:20 +0900</pubDate>
+    <lastBuildDate>Sat, 21 Dec 2019 13:13:20 +0900</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>모던 PHP 참고 사이트 모음</title>
+        <description>&lt;p&gt;1.&lt;a href=&quot;http://modernpug.github.io/php-the-right-way/&quot; target=&quot;_blank&quot;&gt;PHP Right Away&lt;/a&gt; - 모던 php 총정리&lt;/p&gt;
+
+&lt;p&gt;2.&lt;a href=&quot;https://github.com/jupeter/clean-code-php&quot; target=&quot;_blank&quot;&gt;PHP Clean Code&lt;/a&gt; - php 클린코드 짜는법&lt;/p&gt;
+
+&lt;p&gt;3.바쁜 팀장님 대신 알려주는 신입 PHP 개발자 안내서&lt;/p&gt;
+
+&lt;p&gt;4.&lt;a href=&quot;https://apiumhub.com/tech-blog-barcelona/functional-php/&quot; target=&quot;_blank&quot;&gt;Functional PHP&lt;/a&gt; - 함수형 php&lt;/p&gt;
+
+&lt;p&gt;5.&lt;a href=&quot;https://medium.com/better-programming/how-to-make-your-php-code-beautiful-with-chainable-methods-83d8832b1b16&quot; target=&quot;_blank&quot;&gt;Chainable Methods PHP&lt;/a&gt; - 체인 함수 php&lt;/p&gt;
+
+&lt;p&gt;6.&lt;a href=&quot;https://laracasts.com/skills/php&quot; target=&quot;_blank&quot;&gt;라라캐스트 php 강의&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;7.&lt;a href=&quot;https://github.com/ziadoz/awesome-php&quot; target=&quot;_blank&quot;&gt;awesome-php&lt;/a&gt; - php 관련 자료 모음&lt;/p&gt;
+
+&lt;p&gt;8.&lt;a href=&quot;https://vegibit.com/most-useful-php-array-functions/&quot; target=&quot;_blank&quot;&gt;유용한 php 배열 함수들&lt;/a&gt;&lt;/p&gt;
+
+&lt;style&gt;
+.post-content {
+    margin-left:35%;
+
+}
+&lt;/style&gt;
+
+</description>
+        <pubDate>Sat, 21 Dec 2019 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/php/2019/12/21/modern_php.html</link>
+        <guid isPermaLink="true">http://localhost:4000/php/2019/12/21/modern_php.html</guid>
+        
+        
+        <category>php</category>
+        
+      </item>
+    
+      <item>
+        <title>블로그 활용법</title>
+        <description>&lt;h1 id=&quot;블로그-활용법-정리&quot;&gt;블로그 활용법 정리&lt;/h1&gt;
+
+&lt;p&gt;1.메뉴는 기술 정의, 프로그래밍,프로그래밍 언어, 오픈소스, 코딩일기 등으로 나눈다
+2.습득했던 유용한 지식들을 이 블로그에 잘 저장해두어서 필요할 때 꺼내쓴다
+3.특히 개념정리나 코딩 심화예제를 잘 정리하고 중간 중간 링크를 두어 자료탐색을 쉽게한다&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 Dec 2019 21:00:00 +0900</pubDate>
+        <link>http://localhost:4000/programming/2019/12/06/first.html</link>
+        <guid isPermaLink="true">http://localhost:4000/programming/2019/12/06/first.html</guid>
+        
+        
+        <category>programming</category>
+        
+      </item>
     
       <item>
         <title>This is first post!</title>
