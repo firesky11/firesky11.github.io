@@ -25,9 +25,3 @@ author: "진유"
 8.[유용한 php 배열 함수들](https://vegibit.com/most-useful-php-array-functions/){: target="_blank"}
 
 
-<style>
-.post-content {
-    margin-left:35%;
-
-}
-</style>
